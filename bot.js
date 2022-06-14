@@ -34,6 +34,7 @@ function generateBots(pool) {
 }
 
 class Bot {
+  // This is a comment
   constructor(x, y, speed, metabolism, angleChange) {
     this.x = x;
     this.y = y;
